@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Places</string>
+    <string name="people">People</string>
+    <string name="group">Groups</string>
+    <string name="events">Events</string>
+    <string name="rest">Restaurants</string>
+    <string name="cafe">Coffee shops/Bars</string>
+    <string name="shopping">Shopping</string>
+    <string name="groc">Groceries</string>
+    <string name="movies">Movies</string>
+</resources>

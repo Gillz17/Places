@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_people"
+            android:icon="@drawable/ic_person"
+            android:title="@string/people"/>
+        <item
+            android:id="@+id/nav_groups"
+            android:icon="@drawable/ic_groups"
+            android:title="@string/group"/>
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_events"
+            android:title="@string/events"/>
+    </group>
+
+    <group android:checkableBehavior="single"
+           android:id="@+id/places_menu">
+        <item
+            android:id="@+id/nav_rest"
+            android:icon="@drawable/ic_rest"
+            android:title="@string/rest"/>
+        <item
+            android:id="@+id/nav_cafe"
+            android:icon="@drawable/ic_cafe"
+            android:title="@string/cafe"/>
+        <item
+            android:id="@+id/nav_shopping"
+            android:icon="@drawable/ic_shopping"
+            android:title="@string/shopping"/>
+        <item
+            android:id="@+id/nav_groc"
+            android:icon="@drawable/ic_groc"
+            android:title="@string/groc"/>
+        <item
+            android:id="@+id/nav_movies"
+            android:icon="@drawable/ic_movie"
+            android:title="@string/movies"/>
+    </group>
+</menu>

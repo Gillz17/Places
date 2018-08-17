@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "66149426485",
+    "firebase_url": "https://places-cb0e3.firebaseio.com",
+    "project_id": "places-cb0e3",
+    "storage_bucket": "places-cb0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66149426485:android:450a976be189e5e6",
+        "android_client_info": {
+          "package_name": "gillz.android.com.places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66149426485-nulqoojkvb0sifs413e8ggd2vbqhpjko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gillz.android.com.places",
+            "certificate_hash": "726d95ecda614b2060536c75270a098c6db63226"
+          }
+        },
+        {
+          "client_id": "66149426485-mb3qh6j2u6mrr0opal9oche0tm83fdbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJQULfIWSM12hqFc_1wp-SK2YHOIHlNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66149426485-mb3qh6j2u6mrr0opal9oche0tm83fdbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
