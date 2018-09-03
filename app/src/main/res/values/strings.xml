@@ -9,4 +9,10 @@
     <string name="groc">Groceries</string>
     <string name="movies">Movie Theaters</string>
     <string name="invite">Invites</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete">Delete your account</string>
+    <string name="delete_msg">Are you sure you want to delete your account?
+        This action cannot be undone.</string>
+    <string name="yes">Delete</string>
+    <string name="no">Cancel</string>
 </resources>
