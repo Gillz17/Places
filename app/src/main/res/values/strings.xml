@@ -7,5 +7,6 @@
     <string name="cafe">Coffee shops/Bars</string>
     <string name="shopping">Shopping</string>
     <string name="groc">Groceries</string>
-    <string name="movies">Movies</string>
+    <string name="movies">Movie Theaters</string>
+    <string name="invite">Invites</string>
 </resources>
